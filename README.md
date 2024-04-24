@@ -2,4 +2,4 @@
 
 ---
 
-## Можно увидеть 2 поддериктории - [Алгоритмы](https://github.com/stas1404/MyUniversityPage/tree/master/alGorithMs) и [C++](https://github.com/stas1404/MyUniversityPage/tree/master/C%2B%2B/String)
+## Можно увидеть 3 поддериктории - [Алгоритмы](https://github.com/stas1404/MyUniversityPage/tree/master/alGorithMs), [Golang](https://github.com/stas1404/MyUniversityPage/tree/master/Golang) и [C++](https://github.com/stas1404/MyUniversityPage/tree/master/C%2B%2B/String)
